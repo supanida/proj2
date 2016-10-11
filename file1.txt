@@ -5,4 +5,8 @@ line 3 : soda
 line 5 : pizza
 line 6 : juice
 line 7 : fruit
+<<<<<<< HEAD
 line 8 : cake
+=======
+line 9 : lolipop
+>>>>>>> 491346daa4ace15bc34c2b2f85898d6b0bd9940d
